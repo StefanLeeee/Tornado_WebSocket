@@ -1,1 +1,2 @@
-web: python chatdemo.py --port=$PORT
+web: python main.py --port=$PORT
+
